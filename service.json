@@ -1,7 +1,7 @@
 
 [
     {
-    
+     "id": "iphonexpro",
     "name": "iphone x",
     "company": "apple",
     "price": 6000000,
@@ -16,7 +16,7 @@
     "featured": true
     },
     {
-    
+     "id": "samsungs20pro",
     "name": "samsung s20",
     "company": "samsung",
     "price": 5000000,
@@ -30,7 +30,7 @@
     "shipping": true
     },
     {
-    
+     "id": "delllappro",
     "name": "Dell Series",
     "company": "dell",
     "price": 600000,
@@ -43,7 +43,7 @@
     "category": "laptop"
     },
     {
-    
+     "id": "nokia420pro",
     "name": "Nokia 420",
     "company": "nokia",
     "price": 12599,
@@ -58,7 +58,7 @@
     "shipping": true
     },
     {
-    
+     "id": "macpcpro",
     "name": "Mac Pc",
     "company": "apple",
     "price": 4000099,
@@ -72,7 +72,7 @@
     "shipping": true
     },
     {
-    
+     "id": "macbookpro",
     "name": "Macbook Pro",
     "company": "apple",
     "price": 42999,
@@ -86,7 +86,7 @@
     "shipping": true
     },
     {
-    
+     "id": "asusgseriespro",
     "name": "Asus gseries",
     "company": "asus",
     "price": 23999,
@@ -100,7 +100,7 @@
     "shipping": true
     },
     {
-    
+     "id": "lenovoacsspro",
     "name": "Accessories",
     "price": 1099999,
     "company": "lenovo",
@@ -115,7 +115,7 @@
     "shipping": true
     },
     {
-    
+     "id": "iwatchapplepro",
     "name": "Iwatch",
     "price": 39999,
     "company": "apple",
@@ -128,7 +128,7 @@
     "shipping": true
     },
     {
-    
+     "id": "applemob0pro",
     "name": "user need",
     "company": "apple",
     "price": 300099,
@@ -142,7 +142,7 @@
     "category": "accessories"
     },
     {
-    
+     "id": "rolexpre",
     "name": "rolex premium",
     "company": "rolex",
     "price": 999999,
@@ -155,7 +155,7 @@
     "category": "watch"
     },
     {
-    
+     "id": "galaxyw20pro",
     "name": "galaxy w20",
     "price": 311999,
     "company": "samsung",
@@ -170,7 +170,7 @@
     "featured": true
     },
     {
-    
+     "id": "iponexpro",
     "name": "iphone x",
     "company": "apple",
     "price": 6000000,
@@ -185,7 +185,7 @@
     "featured": true
     },
     {
-    
+     "id": "samsungs20pro",
     "name": "samsung s20",
     "company": "samsung",
     "price": 5000000,
@@ -199,7 +199,7 @@
     "shipping": true
     },
     {
-    
+     "id": "dellser0pro",
     "name": "Dell Series",
     "company": "dell",
     "price": 600000,
@@ -212,7 +212,7 @@
     "category": "laptop"
     },
     {
-    
+     "id": "samsungs20pro",
     "name": "Nokia 420",
     "company": "nokia",
     "price": 12599,
@@ -227,7 +227,7 @@
     "shipping": true
     },
     {
-    
+     "id": "macpcpro",
     "name": "Mac Pc",
     "company": "apple",
     "price": 4000099,
@@ -241,7 +241,7 @@
     "shipping": true
     },
     {
-    
+     "id": "macbook2pro",
     "name": "Macbook Pro",
     "company": "apple",
     "price": 42999,
@@ -255,7 +255,7 @@
     "shipping": true
     },
     {
-    
+     "id": "asusgpro",
     "name": "Asus gseries",
     "company": "asus",
     "price": 23999,
@@ -269,7 +269,7 @@
     "shipping": true
     },
     {
-    
+     "id": "lenovopro",
     "name": "Accessories",
     "price": 1099999,
     "company": "lenovo",
@@ -284,7 +284,7 @@
     "shipping": true
     },
     {
-    
+     "id": "iwatch20pro",
     "name": "Iwatch",
     "price": 39999,
     "company": "apple",
@@ -297,7 +297,7 @@
     "shipping": true
     },
     {
-    
+     "id": "applewatchpro",
     "name": "user need",
     "company": "apple",
     "price": 300099,
@@ -309,33 +309,5 @@
     "image": "https://images.unsplash.com/photo-1592832122594-c0c6bad718b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
     "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
     "category": "accessories"
-    },
-    {
-    
-    "name": "rolex premium",
-    "company": "rolex",
-    "price": 999999,
-    "colors": [
-    "#000000",
-    "#CDD0D0"
-    ],
-    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "watch"
-    },
-    {
-    
-    "name": "galaxy w20",
-    "price": 311999,
-    "company": "samsung",
-    "colors": [
-    "#22D3EF",
-    "#ff0000",
-    "#000000"
-    ],
-    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80",
-    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "watch",
-    "featured": true
     }
     ]
